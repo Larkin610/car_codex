@@ -1,0 +1,53 @@
+{
+  "note": "检索优先级与别名，不是事实可信白名单；官网入口也必须读取单篇。",
+  "priority_media": ["auto.gasgoo.com", "cnautonews.com", "autonews.com", "marklines.com", "reuters.com", "bloomberg.com"],
+  "actions": {
+    "2": "海外 出口 工厂 上市 经销商 技术 投资",
+    "3": "automotive launch investment production technology restructuring",
+    "4": "automotive market industry trade regulation",
+    "5": "automotive lanzamiento fábrica concesionario sales market"
+  },
+  "aliases": {
+    "奇瑞": ["奇瑞 海外", "Chery Omoda Jaecoo Jetour Exeed Lepas"],
+    "上汽": ["上汽 名爵 五菱", "SAIC MG Maxus IM Motors"],
+    "比亚迪": ["比亚迪 腾势 仰望", "BYD Denza Yangwang"],
+    "吉利": ["吉利 极氪 领克 沃尔沃", "Geely Zeekr Lynk Volvo"],
+    "长安": ["长安 深蓝 阿维塔", "Changan Deepal Avatr Nevo"],
+    "长城": ["长城 哈弗 欧拉 坦克", "GWM Haval Ora Tank Wey"],
+    "北汽": ["北汽 福田 北京汽车", "BAIC Foton Arcfox"],
+    "东风": ["东风 岚图 猛士 奕派", "Dongfeng Voyah M-Hero Nammi DFAC Liuzhou"],
+    "特斯拉中国": ["特斯拉 上海 出口", "Tesla Shanghai China export"],
+    "广汽": ["广汽 埃安 传祺 昊铂", "GAC Aion Hyptec Trumpchi"],
+    "特斯拉": ["特斯拉", "Tesla"], "丰田": ["丰田 雷克萨斯", "Toyota Lexus"],
+    "大众": ["大众 奥迪 保时捷 斯柯达", "Volkswagen Audi Porsche Skoda Seat Cupra"],
+    "现代起亚": ["现代 起亚 捷尼赛思", "Hyundai Kia Genesis"],
+    "斯泰兰蒂斯": ["斯泰兰蒂斯", "Stellantis Peugeot Citroen Fiat Jeep Opel Ram"],
+    "雷诺日产": ["雷诺 日产", "Renault Nissan Dacia Alpine Infiniti"],
+    "通用": ["通用汽车", "General Motors Chevrolet Buick Cadillac GMC"],
+    "福特": ["福特 林肯", "Ford Lincoln"], "本田": ["本田 讴歌", "Honda Acura"],
+    "欧洲": ["欧洲 汽车", "Europe EU automotive market"], "美洲": ["美洲 汽车", "Americas automotive market"],
+    "东南亚": ["东南亚 汽车", "ASEAN automotive"], "澳新": ["澳大利亚 新西兰 汽车", "Australia New Zealand automotive"],
+    "中东": ["中东 汽车", "Middle East GCC automotive"], "中北亚": ["中亚 汽车", "Central Asia Kazakhstan Uzbekistan automotive"],
+    "中北非": ["北非 汽车", "North Africa Morocco Algeria Egypt automotive"],
+    "俄罗斯": ["Россия автомобили", "Russia automotive"], "沙特阿拉伯": ["السعودية سيارات", "Saudi Arabia automotive"],
+    "伊朗": ["ایران خودرو", "Iran automotive"], "墨西哥": ["México autos lanzamiento", "Mexico automotive"],
+    "越南": ["Việt Nam ô tô", "Vietnam automotive"], "巴西": ["Brasil carros lançamento fábrica", "Brazil automotive"],
+    "意大利": ["Italia auto mercato produzione", "Italy automotive"], "西班牙": ["España coches lanzamiento fábrica", "Spain automotive"],
+    "土耳其": ["Türkiye otomotiv fabrika", "Turkey automotive"], "波兰": ["Polska samochody fabryka", "Poland automotive"],
+    "菲律宾": ["Philippines cars launch dealer", "Pilipinas sasakyan"], "印度尼西亚": ["Indonesia mobil otomotif", "Indonesia automotive"],
+    "尼日利亚": ["Nigeria automotive car launch assembly"], "巴基斯坦": ["Pakistan automotive cars launch", "پاکستان گاڑی"],
+    "缅甸": ["Myanmar automotive vehicle", "မြန်မာ ကား"], "智利": ["Chile autos lanzamiento planta"],
+    "秘鲁": ["Perú autos lanzamiento concesionario"], "阿联酋": ["UAE Dubai automotive launch", "الإمارات سيارات"],
+    "乌拉圭": ["Uruguay autos lanzamiento concesionario"], "厄瓜多尔": ["Ecuador autos lanzamiento ventas"],
+    "委内瑞拉": ["Venezuela vehículos lanzamiento concesionario"]
+  },
+  "official_sites": {
+    "奇瑞": ["cheryinternational.com"], "上汽": ["saicmotor.com", "mgmotor.eu"], "比亚迪": ["bydglobal.com", "byd.com"],
+    "吉利": ["zgh.com", "geely.com"], "长安": ["globalchangan.com"], "长城": ["gwm-global.com"],
+    "北汽": ["baicgroup.com.cn", "foton-global.com"], "东风": ["dongfeng-global.com", "dfmc.com.cn"],
+    "特斯拉中国": ["tesla.cn"], "广汽": ["gac.com.cn", "gacgroup.com"], "特斯拉": ["ir.tesla.com"],
+    "丰田": ["global.toyota", "pressroom.toyota.com"], "大众": ["volkswagen-group.com", "audi-mediacenter.com", "newsroom.porsche.com"],
+    "现代起亚": ["hyundai.com", "kianewscenter.com"], "斯泰兰蒂斯": ["stellantis.com"],
+    "雷诺日产": ["media.renaultgroup.com", "global.nissannews.com"], "通用": ["news.gm.com"], "福特": ["media.ford.com"], "本田": ["global.honda"]
+  }
+}

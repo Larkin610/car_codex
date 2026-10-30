@@ -1,0 +1,2 @@
+# Optional isolated browser capture runtime; core .venv stays separate.
+crawl4ai==0.9.5
